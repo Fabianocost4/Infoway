@@ -1,0 +1,132 @@
+/* Navbar */
+.navbar {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.collapse a {
+    color: #fff;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ff9900;
+    transition: color 0.3s;
+}
+
+
+.btn-custom:hover {
+    background-color: #fccb83;
+}
+
+.bg-custom {
+    background-color: rgb(36, 36, 36);
+}
+
+/* Button do Main */
+
+.btn-custom {
+    background-color: #f4732a;
+    color: #ffffff;
+    font-family: 'Staatliches', sans-serif;
+
+}
+
+
+
+/* Sobre */
+
+.imgequipe {
+    text-align: center;
+}
+
+.paragrafos{
+    background-color: #c94508;
+    font-style: italic;
+    color: #fff;
+}
+.paragrafos2{
+    background-color: #c94508;
+    font-style: italic;
+    color: #fff;
+}
+
+.textsobre h1 {
+    font-family: 'Staatliches', sans-serif;
+    color: #fff;
+    background-color: #f4732a;
+}
+.textsobre2 h1 {
+    
+    font-family: 'Staatliches', sans-serif;
+    color: #fff;
+    background-color: #f4732a;
+}
+
+
+
+/* Cor das fontes do Index */
+
+.container h4,h1{
+    color: #000;
+}
+
+.textinicial{
+   color: #000;
+}
+
+/* Footer */
+
+.footer{
+    color: #fff;
+}
+
+/* Sections do Index */
+
+.textinicio2 h1{
+    color: #fff;
+    font-family: 'Staatliches', sans-serif;
+}
+
+
+.textinicio {
+    flex: 1;
+    padding: 1.5rem; 
+  }
+
+.imageinicio {
+    flex: 1 1 700px; 
+    padding: 1,5rem;
+  }
+
+.iniciofundo {
+    align-items: center;
+    display: flex;
+    background-color: #fff;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+.carouselfundo {
+   background-color: #fff;
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+/* Index */
+
+
+body {
+background-color: #612604;
+}
+
+/* Footer */
+
+footer.row{
+    text-align: center;
+}
+
+
+footer.bg-custom{
+    background-color: rgb(36, 36, 36);
+}
